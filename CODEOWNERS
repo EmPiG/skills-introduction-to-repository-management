@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @EmPiG
+/src/backend/database.py      @EmPiG
+/src/backend/routers/auth.py  @EmPiG
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @EmPiG
